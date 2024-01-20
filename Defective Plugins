@@ -1,0 +1,32 @@
+Martfury Unnecessary &/or useless plug-ins:{
+    botble-sso-client
+    Log-Viewer Plus
+    botble-sanctum-token
+    Skillcraft Contact Manager
+    ?Skillcraft Core
+}
+Not functional:{
+    URL Redirector
+    OpenAI Auto Content
+    vig-ai
+    vig-auto-translations
+    toc
+    Impersonate
+}
+
+Currently only functional in the localhost (tested with Xampp Windows) {
+    toc
+}
+Handle with care:{
+    Skillcraft Core
+}
+Currently NOT functional in the localhost (tested with Xampp Windows) {
+    Email Log
+    IP Blocker
+    botble-sso-client
+    Log Viewer Plus
+    botble-sanctum-token
+}
+?= Not sure,
+but so far no useful application
+application yet.
