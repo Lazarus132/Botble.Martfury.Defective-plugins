@@ -9,6 +9,7 @@ Not functional:{
     vig-ai
     vig-auto-translations
     Impersonate
+    comment
 }
 Currently only functional in the localhost (tested with Xampp Windows) {
     
