@@ -1,2 +1,2 @@
 # Botble.Martfury.Defective-plugins
-Ich Teste alle Plugins von allen Entwicklern durch und Teile Sie in eine Kategorie ein, die Plugins von dessen Entwicklern als Vertrauenswürig eingestuft sind, können Sie fast Problemlos Installieren und es sollte auch alles Funktionieren, vereinzelt kann es selbst dor auftreten, dass es Fehler gibt, jedoch hat man hier einen Zügigen und freundlichen Kundensupport.
+Ich Teste alle Plugins von allen Entwicklern durch und Teile Sie in eine Kategorie ein, die Plugins von dessen Entwicklern als Vertrauenswürig eingestuft sind, können Sie fast Problemlos Installieren und es sollte auch alles Funktionieren, vereinzelt kann es selbst dort auftreten, dass es Fehler gibt, jedoch hat man hier einen Zügigen und freundlichen Kundensupport.
