@@ -1,29 +1,20 @@
-Martfury Unnecessary &/or useless plug-ins:{
-    botble-sso-client
-    Log-Viewer Plus
-    botble-sanctum-token
+Zuverlässige Plugin Entwickler:
+{
+    Botble
+    Botble Friends / datlechin
+    nivianh
+    Nawras Bukhari
+    archielite
 }
-Not functional:{
-    URL Redirector
-    OpenAI Auto Content
-    vig-ai
-    vig-auto-translations
-    Impersonate
-    comment
+
+Unzuverlässige Plugin Entwickler:
+{
+    vigstudio
+    sangnguyenplus
+    FoxSolutions.Vn
+    ? hoabinhgroup
 }
-Currently only functional in the localhost (tested with Xampp Windows) {
-    
+Zuverlässig, jedoch erhöhte PHP Kenntnisse Erforderlich:
+{
+    skillcraft-io
 }
-Handle with care:{
-    Skillcraft Core
-}
-Currently NOT functional in the localhost (tested with Xampp Windows) {
-    Email Log
-    IP Blocker
-    botble-sso-client
-    Log Viewer Plus
-    botble-sanctum-token
-}
-?= Not sure,
-but so far no useful application
-application yet.
