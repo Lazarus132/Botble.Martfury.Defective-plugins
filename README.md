@@ -1,2 +1,2 @@
 # Botble.Martfury.Defective-plugins
-I test all plugins for the Botble Martfury Multivendor Laravel CMS System &amp; list the defective plugins here, if others could also find faulty plugins, they are welcome to write this in the repository.
+Ich Teste alle Plugins von allen Entwicklern durch und Teile Sie in eine Kategorie ein, die Plugins von dessen Entwicklern als Vertrauenswürig eingestuft sind, können Sie fast Problemlos Installieren und es sollte auch alles Funktionieren, vereinzelt kann es selbst dor auftreten, dass es Fehler gibt, jedoch hat man hier einen Zügigen und freundlichen Kundensupport.
